@@ -1,5 +1,5 @@
 # Understanding Neuroimaging Workflows
-[DOI](https://doi.org/10.5281/zenodo.12699862)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12699862.svg)](https://doi.org/10.5281/zenodo.12699862)
 * A repository containing my code and writing about understanding Neuroimaging Workflows using [Software Heritage](https://www.softwareheritage.org/).
 * This repository prepared considering the structure of the [dm-template repo](https://github.com/NISOx-BDI/dm-template).
 
