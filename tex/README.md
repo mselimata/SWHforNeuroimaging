@@ -1,0 +1,1 @@
+This folder contains written information or link to written information.
