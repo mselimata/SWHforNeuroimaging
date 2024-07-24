@@ -1,7 +1,8 @@
 /src/target/*
+/src/target/.rustc_info.json
 /src/target/release/*
 /src/target/release/build/*
-
-
-
-
+/src/target/release/.fingerprint/*
+/src/target/deps/*
+/src/target/release/workshop
+/src/target/release/workshop.d
