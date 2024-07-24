@@ -1,2 +1,7 @@
 /src/target/*
+/src/target/release/*
+/src/target/release/build/*
+
+
+
 
