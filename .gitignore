@@ -3,9 +3,11 @@
 /src/target/release/*
 /src/target/release/build/*
 /src/target/release/.fingerprint/*
-/src/target/deps/*
+/target/release/.fingerprint/*
 /src/target/release/workshop
 /src/target/release/workshop.d
-/src/terget/release/build/*
-/src/target/release/deps/*
+/target/release/build/*
+/target/release/deps/*
 /src/java/*
+/target/*
+
