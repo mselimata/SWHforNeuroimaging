@@ -6,3 +6,5 @@
 /src/target/deps/*
 /src/target/release/workshop
 /src/target/release/workshop.d
+/src/java/*
+/src/pom.xml
