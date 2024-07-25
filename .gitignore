@@ -6,5 +6,6 @@
 /src/target/deps/*
 /src/target/release/workshop
 /src/target/release/workshop.d
+/src/terget/release/build/*
+/src/target/release/deps/*
 /src/java/*
-/src/pom.xml
