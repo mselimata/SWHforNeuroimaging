@@ -8,6 +8,7 @@
 /src/target/release/workshop.d
 /target/release/build/*
 /target/release/deps/*
+/target/release/*
 /src/java/*
 /target/*
 
