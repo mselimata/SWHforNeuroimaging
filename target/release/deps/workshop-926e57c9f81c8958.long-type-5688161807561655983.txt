@@ -1,1 +1,0 @@
-impl rayon::iter::ParallelIterator<Item = <std::ops::Range<usize> as rayon::iter::IntoParallelIterator>::Item>
