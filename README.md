@@ -9,6 +9,6 @@
 # Contents overview
 
 ```/src``` contains all the code.
-
+this needs to be organized
 ```/tex``` may contain tex files of the literature otherwise an .md file to link the document.
 
