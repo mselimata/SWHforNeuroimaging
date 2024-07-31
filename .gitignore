@@ -11,4 +11,4 @@
 /target/release/*
 /src/java/*
 /target/*
-
+/src/.ipynb_checkpoints
