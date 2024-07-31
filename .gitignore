@@ -12,3 +12,4 @@
 /src/java/*
 /target/*
 /src/.ipynb_checkpoints/*
+.vscode/*
